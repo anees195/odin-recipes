@@ -1,0 +1,22 @@
+/* styles.css*/
+
+body{
+    color: whitesmoke;
+    background-color: black;
+}
+
+a:link {
+    color: aqua;
+}
+
+a:visited {
+    color: #fc03c2
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:active {
+    color: blue;
+}

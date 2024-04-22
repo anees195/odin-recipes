@@ -1,0 +1,55 @@
+/* styles.css*/
+
+* {
+    outline: 2px solid red;
+}
+
+body{
+    font-family: fantasy;
+    background-color: #fcf6b1;
+}
+
+h1{
+    color: red;
+    font-family: chewy, cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    color: #42f5cb;
+}
+
+p { margin-bottom: 20px;
+    line-height: 1.5;
+    font-style: italic;
+}
+
+.ingredients {
+    color: #42f56f;
+    background-color: black;
+
+    width: 250px;
+    margin: 100px 50px 100px 150px;
+    border-left-width: 10px;
+    border-left-color: red;
+    border-left-style: double;
+
+    border-right-width: 20px;
+    border-right-color: purple;
+    border-right-style: groove;
+
+    padding: 150px 150px 200px 150px;
+
+    background-image: url(https://www.simplybeefandlamb.co.uk/media/2732/lasagne.jpg?width=550&height=570&mode=crop);
+    background-size: cover;
+    font-weight: bold;
+    font-size: large;
+    text-decoration: underline;
+
+}
+
+span { color: red;
+    font-size: 40px;
+    font-weight: bolder;
+}
